@@ -1,7 +1,7 @@
 {
   "name": "@DeepakR-28/button-component-library",
-  "version": "0.0.5",
-  "description": "first component library in react",
+  "version": "0.0.6",
+  "description": "Component library for react",
   "scripts": {
     "rollup": "rollup -c",
     "storybook": "start-storybook -p 6006",
