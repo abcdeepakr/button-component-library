@@ -101,12 +101,9 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */,
     "jsx":"react",
     "module": "ESNext",
-    "declaration": true,
-    "declarationDir": "types",
     "sourceMap": true,
     "outDir": "dist",
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
-    "emitDeclarationOnly": true
+    "allowSyntheticDefaultImports": true
   }
 }

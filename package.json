@@ -1,6 +1,6 @@
 {
   "name": "@deepakr-28/button-component-library",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Component library for react",
   "scripts": {
     "rollup": "rollup -c",
@@ -28,6 +28,8 @@
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^11.0.0",
+    "postcss": "^8.4.21",
+    "react-dom": "^18.2.0",
     "rollup": "^3.10.1",
     "rollup-plugin-dts": "^5.1.1",
     "rollup-plugin-postcss": "^4.0.2",
