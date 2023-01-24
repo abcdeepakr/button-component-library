@@ -1,3 +1,57 @@
 button{
     font-size: 24px;
 }
+/* Button variants */
+.water{
+    background-color: #5DADE2;
+    border: 2px solid #5DADE2;
+    color: #fff;
+}
+.fire{
+    background-color: #F39C12;
+    border: 2px solid #F39C12;
+    color: #fff;
+}
+.air{
+    background-color: #D6EAF8;
+    border: 2px solid #D6EAF8;
+    color: #000;
+}
+.forest{
+    background-color: #27AE60;
+    border: 2px solid #27AE60;
+    color: #fff;
+}
+
+.water-outline{
+    border: 2px solid #5DADE2;
+}
+.fire-outline{
+    border: 2px solid #F39C12;
+}
+.air-outline{
+    border: 2px solid #D6EAF8;
+}
+.forest-outline{
+    border: 2px solid #27AE60;
+}
+
+/* Button Size */
+.lg{
+    font-size: 2rem;
+    padding: 0.5rem 4rem;
+}
+.med{
+    font-size: 1rem;
+    padding: 0.5rem 2rem;
+}
+.sm{
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+}
+
+/* Border Radius */
+
+.border-radius{
+    border-radius: 10px;
+}

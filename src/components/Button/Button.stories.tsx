@@ -17,7 +17,42 @@ HelloWorld.args = {
   label: "Hello world!",
 };
 
-export const ClickMe = Template.bind({});
-ClickMe.args = {
-  label: "Click me!",
+export const Air = Template.bind({});
+Air.args = {
+  variant: "air",
+  label:"Air",
+  size:"lg"
+};
+export const Fire = Template.bind({});
+Fire.args = {
+  variant: "fire",
+  label:"Fire",
+  size:"med"
+};
+export const Forest = Template.bind({});
+Forest.args = {
+  variant: "forest",
+  label:"Forest",
+  size:"sm"
+};
+export const Water = Template.bind({});
+Water.args = {
+  variant: "water",
+  label:"Water",
+  size:"lg",
+  "border-radius":"true",
+};
+export const FireOutline = Template.bind({});
+FireOutline.args = {
+  variant: "fire-outline",
+  label:"Fire Outline",
+  size:"lg",
+  "border-radius":"true",
+};
+export const ForestOutline = Template.bind({});
+ForestOutline.args = {
+  variant: "forest-outline",
+  label:"Forest Outline",
+  size:"lg",
+  "border-radius":"true",
 };
