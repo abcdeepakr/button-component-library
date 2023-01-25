@@ -40,19 +40,19 @@ Water.args = {
   variant: "water",
   label:"Water",
   size:"lg",
-  "border-radius":"true",
+  "borderRadius":"true",
 };
 export const FireOutline = Template.bind({});
 FireOutline.args = {
   variant: "fire-outline",
   label:"Fire Outline",
   size:"lg",
-  "border-radius":"true",
+  "borderRadius":"true",
 };
 export const ForestOutline = Template.bind({});
 ForestOutline.args = {
   variant: "forest-outline",
   label:"Forest Outline",
   size:"lg",
-  "border-radius":"true",
+  "borderRadius":"true",
 };
