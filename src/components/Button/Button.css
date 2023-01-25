@@ -53,5 +53,5 @@ button{
 /* Border Radius */
 
 .borderRadius{
-    borderRadius: 10px;
+    border-radius: 10px;
 }
