@@ -1,14 +1,14 @@
 import React from 'react'
 import './Button.css'
 
-interface ButtonProps {
+export interface ButtonProps {
     label: string;
     variant?: string;
     size?: string;
     borderRadius?: string;
 }
 
-const Button: React.FC<ButtonProps>= (props: ButtonProps) =>{
+const Buttons= (props: ButtonProps) =>{
     let propValues= Object.keys(props).map((propKey: string) =>{
         if(propKey === "borderRadius" && props["borderRadius" as keyof typeof props]==="true") {
             return "borderRadius"
