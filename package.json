@@ -1,6 +1,6 @@
 {
   "name": "@deepakr-28/button-component-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Component library for react",
   "scripts": {
     "rollup": "rollup -c",
