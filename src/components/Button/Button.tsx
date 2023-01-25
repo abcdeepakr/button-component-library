@@ -8,7 +8,7 @@ export interface ButtonProps {
     borderRadius?: string;
 }
 
-const Buttons= (props: ButtonProps) =>{
+const Button= (props: ButtonProps) =>{
     let propValues= Object.keys(props).map((propKey: string) =>{
         if(propKey === "borderRadius" && props["borderRadius" as keyof typeof props]==="true") {
             return "borderRadius"
