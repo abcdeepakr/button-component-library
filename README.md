@@ -1,5 +1,7 @@
 # Button Component Library
 
+**Note**: Copy the README.md content, paste and view it on [https://markdownlivepreview.com/](https://markdownlivepreview.com/) for better formatting, since GitHub markdown does not support button tag.
+
 A simple button component library with the following customizabilities
 
 ## Available props
