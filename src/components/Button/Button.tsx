@@ -3,8 +3,8 @@ import './Button.css'
 
 interface ButtonProps {
     label: string;
-    variant?: string;
-    size?: string;
+    variant?: string
+    size?: string
     "border-radius"?: string
 }
 
