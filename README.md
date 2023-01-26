@@ -4,6 +4,28 @@
 
 A simple button component library with the following customizabilities
 
+## Installation
+
+```
+npm install @deepakr-28/button-component-library@0.5.0
+```
+
+### Usage
+
+```jsx
+import { Button } from '@deepakr-28/button-component-library'
+
+export default function Component() {
+  
+  return (
+    <>  
+        <Button label='button name'/>
+    </>
+  )/
+}
+
+```
+
 ## Available props
 
 ### label
